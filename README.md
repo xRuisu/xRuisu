@@ -1,8 +1,8 @@
-# Hi, I'm Louis Harris 👋
+# Hello, I'm Louis Harris
 
 I'm a software developer who enjoys solving real-world operational problems through software. My projects are inspired by challenges I've encountered in the workplace, where I focus on improving workflows, reducing manual effort, and creating practical tools that make everyday tasks more efficient.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Equipment Forge
 
@@ -28,7 +28,7 @@ Currently being redesigned as I continue learning Spring Boot, REST APIs, databa
 
 ---
 
-## 💻 Technologies
+## Technologies
 
 **Languages**
 
@@ -47,7 +47,7 @@ Currently being redesigned as I continue learning Spring Boot, REST APIs, databa
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Spring Boot
 * REST APIs
@@ -57,7 +57,7 @@ Currently being redesigned as I continue learning Spring Boot, REST APIs, databa
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
 I enjoy designing software that solves practical problems rather than building projects solely for practice. Every application I create begins with identifying an inefficiency, understanding the workflow, and designing a solution that improves the user experience.
 
